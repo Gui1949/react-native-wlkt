@@ -32,13 +32,13 @@ const defOpts = {
   },
   tooltipOptions: {
     text: {
-      previous: { value: 'Previous', type: ['string', 'function'] },
+      previous: { value: 'Anterior', type: ['string', 'function'] },
       next: {
-        value: ({ current, steps }) => `Next (${current}/${steps})`,
+        value: ({ current, steps }) => `Próximo (${current}/${steps})`,
         type: ['string', 'function']
       },
-      finish: { value: 'Finish', type: ['string', 'function'] },
-      skip: { value: 'Skip', type: ['string', 'function'] }
+      finish: { value: 'Fim', type: ['string', 'function'] },
+      skip: { value: 'Pular', type: ['string', 'function'] }
     },
     height: { value: 100, type: 'number', valid: v => v > 0 },
     width: { value: 230, type: 'number', valid: v => v > 0 },
