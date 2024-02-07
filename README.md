@@ -1,8 +1,8 @@
-## React-Native-Walkthrough
+## React-Native-Step-By-Step
 
 ---
 
-#### Simple and fully customizable walkthrough guide for your app!
+####  Passo a passo personalizado para React Native traduzido para Português.
 
 Create amazing guides to help new users discovering your masterpiece :wink:
 

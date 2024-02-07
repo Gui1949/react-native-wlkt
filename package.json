@@ -1,7 +1,7 @@
 {
-  "name": "react-native-wlkt",
+  "name": "react-native-step-by-step",
   "version": "1.0.0",
-  "description": "Simple and fully customizable walkthrough guide for your app",
+  "description": "Passo a passo personalizado para React Native traduzido para Português ",
   "main": "index.js",
   "scripts": {
     "example:setup": "yarn --cwd example setup",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blancham/react-native-wlkt.git"
+    "url": "git+https://github.com/Gui1949/react-native-wlkt.git"
   },
   "bugs": {
     "url": "https://github.com/blancham/react-native-wlkt/issues"
